@@ -3,4 +3,4 @@
 &gt; trying really hard converting my private repos to be a public one   
 &gt; figuring out everything
 
-[&lt;my blog&gt;](madshckd.github.io)
+[&lt;my blog&gt;](https://madshckd.github.io)
